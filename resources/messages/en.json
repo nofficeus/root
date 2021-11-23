@@ -1,0 +1,1220 @@
+{
+  "01cc43833c36daa85b74": {
+    "string": "Activate"
+  },
+  "0230edb0ff991bc84733": {
+    "string": "Address was rejected."
+  },
+  "02ab7c76f53766561d7a": {
+    "string": "Add Bank Account"
+  },
+  "03219abb2739e5201054": {
+    "string": "Login"
+  },
+  "03ab0bf09341e0308711": {
+    "string": "Remember me"
+  },
+  "03b2b74beac03d049014": {
+    "string": "Account Setup"
+  },
+  "05ad99847d4cef79110d": {
+    "string": "Relay Transaction"
+  },
+  "05b5602cfe94c144db32": {
+    "string": "Please select account."
+  },
+  "06e406a8045d16a72ef4": {
+    "string": "Search by number..."
+  },
+  "07484f99c40ba27362cb": {
+    "string": "Coin"
+  },
+  "0752cf7603293d663958": {
+    "string": "Access Forbidden"
+  },
+  "084ad0d2502d4cb0b5e1": {
+    "string": "Country was added."
+  },
+  "08fda01d1363f3c1ebbe": {
+    "string": "There are no deposit methods available"
+  },
+  "09c58949968a6e36a78d": {
+    "string": "No account selected!"
+  },
+  "09e357dedb87a62a03c7": {
+    "string": "Check your phone."
+  },
+  "0bcd7fb867a420a7a255": {
+    "string": "Logout"
+  },
+  "0bdfb12ce4b62f018f90": {
+    "string": "${name} must be between ${min} and ${max} in length"
+  },
+  "0c798eb415de0623873a": {
+    "string": "Wallet was removed."
+  },
+  "0e0f9a9a2214013b29e2": {
+    "string": "Operating Countries"
+  },
+  "0ea29de2b284f18100b5": {
+    "string": "Percent"
+  },
+  "0f789d62f48b17d3c427": {
+    "string": "Settings"
+  },
+  "10db10d65181f5855fba": {
+    "string": "Need some help?"
+  },
+  "110644707b395f2e36c4": {
+    "string": "All looks good!"
+  },
+  "11bb9f40c401ee200e39": {
+    "string": "Registration Successful!"
+  },
+  "1304483a68eea9166fb0": {
+    "string": "User"
+  },
+  "136efae25788e04b09d9": {
+    "string": "You will be notified here of any system logs when available."
+  },
+  "1498638333e31af912a9": {
+    "string": "Postcode"
+  },
+  "167937c9364bee1166a8": {
+    "string": "${name} cannot be empty"
+  },
+  "169c449584a900c7c1d3": {
+    "string": "Verification"
+  },
+  "16f6a74fab5ddec27763": {
+    "string": "Accounts"
+  },
+  "172625f7df94dfb0a651": {
+    "string": "Select Coin"
+  },
+  "17797bc4b97615cdff9c": {
+    "string": "Add Account"
+  },
+  "1811ced08cbee1d5b876": {
+    "string": "File is invalid, {types} is required."
+  },
+  "1ae7d7cb9d8534874001": {
+    "string": "Value"
+  },
+  "1b45f39a1be69c40fba5": {
+    "string": "Two Factor Disabled."
+  },
+  "1ba878ffd9229de9c607": {
+    "string": "Transfer Note"
+  },
+  "1c094e9f566cb98c8008": {
+    "string": "Name"
+  },
+  "1d2c755f1ea4af656163": {
+    "string": "Drop or Select file"
+  },
+  "1d72786107f7a1a30c93": {
+    "string": "Verify Documents"
+  },
+  "1ebee0d02337744f06fd": {
+    "string": "Exchange Rate"
+  },
+  "1f7783012418f176d5b3": {
+    "string": "Statistics"
+  },
+  "1f9f8d01712f4e9eb159": {
+    "string": "Balance"
+  },
+  "1fd2a8213d3737072df8": {
+    "string": "Sign in to {name}"
+  },
+  "2069c749ef846c94a007": {
+    "string": "Advance"
+  },
+  "2303651c7fc1a4cabf33": {
+    "string": "Ref: {reference}"
+  },
+  "2314b081891b8b1c54ed": {
+    "string": "${name} is required"
+  },
+  "239e59a018d9500caf59": {
+    "string": "We need some information"
+  },
+  "23f24650ff990674fb26": {
+    "string": "File was uploaded."
+  },
+  "2422209232976a5ab86c": {
+    "string": "Username"
+  },
+  "2611e6cad8987a42f784": {
+    "string": "${name} must be exactly ${len} in length"
+  },
+  "27deb84622b95a69ffe7": {
+    "string": "Registered"
+  },
+  "27e6ee05ab1df40bbf60": {
+    "string": "Old Password"
+  },
+  "285092a4511e26d0a706": {
+    "string": "There are a total of {error} errors, {warning} warnings and {info} info system logs."
+  },
+  "28df93834a2dc85605fc": {
+    "string": "Transfer Bank"
+  },
+  "294cf73dfc90a3e7c389": {
+    "string": "pending"
+  },
+  "29d6121e51c46b81d401": {
+    "string": "Users were activated."
+  },
+  "2c2e0910b3dc9e30b968": {
+    "string": "Make Default"
+  },
+  "2c89249e0c1b0294a9fc": {
+    "string": "Open Logs"
+  },
+  "2d124901c5ecc88f4739": {
+    "string": "Transaction Hash"
+  },
+  "2f6ee535394f81030341": {
+    "string": "Contact one of our support agents."
+  },
+  "2f8b3e125ddfe7e057fb": {
+    "string": "Pay with {title}"
+  },
+  "2ffc2c3ae45fd726ee8e": {
+    "string": "{field} is not a valid number"
+  },
+  "309da3650c509d3a7e26": {
+    "string": "Total"
+  },
+  "3160f5829ee1b463ef91": {
+    "string": "You will no longer have access to your {currency} payment account once changed."
+  },
+  "333fe0b1a2c3bc04a74b": {
+    "string": "Page Not Found"
+  },
+  "339f498575e4bbc5a08e": {
+    "string": "Manual"
+  },
+  "33ab7425acfdc8519219": {
+    "string": "You have not added any wallet."
+  },
+  "34089d29b074be269fba": {
+    "string": "Notifications"
+  },
+  "35723f5cb498c1c3a904": {
+    "string": "Auto"
+  },
+  "363f81326ba6f7120d38": {
+    "string": "Currency was updated successfully."
+  },
+  "3662bacf2e0a015f4f9c": {
+    "string": "Payment"
+  },
+  "36b8ea2e5459b6606a0f": {
+    "string": "Transfer Number"
+  },
+  "37136e1cad4da9b62d02": {
+    "string": "${name} cannot be greater than ${max}"
+  },
+  "37622ba4c0c70c1252e6": {
+    "string": "Confirm"
+  },
+  "37e3e389008b1b12b6e3": {
+    "string": "${name} does not match pattern ${pattern}"
+  },
+  "385db752c363874e2bfb": {
+    "string": "Update {currency} Rate"
+  },
+  "3885992f56dd1128f06a": {
+    "string": "To Address"
+  },
+  "38e412e48e2c7fa7c9fa": {
+    "string": "Enter the verification code generated on your authenticator app."
+  },
+  "3bde51dd9b55df6f4547": {
+    "string": "Phone"
+  },
+  "3c15332a8ad3b1fb6a59": {
+    "string": "We sent you a verification link."
+  },
+  "3c1c1ee7018e9e144420": {
+    "string": "No wallets yet."
+  },
+  "3c24ade53c139f1c3c11": {
+    "string": "Preferences"
+  },
+  "3c5b4ccbd9fbfaa3b2e4": {
+    "string": "Canceled"
+  },
+  "3c63874a090512686e23": {
+    "string": "You have not added a bank account yet."
+  },
+  "3d2f4d8814dec6f91e8a": {
+    "string": "You have not added a bank account."
+  },
+  "3d702eaf9052623dadfa": {
+    "string": "Withdraw"
+  },
+  "3e02461d301c00db0419": {
+    "string": "Available"
+  },
+  "3e0985b8718f3c71bb11": {
+    "string": "Users were deactivated."
+  },
+  "3f1ae317222c853d3aec": {
+    "string": "By registering, I agree to the following"
+  },
+  "3f2d7cf4663d75f330cd": {
+    "string": "Security"
+  },
+  "3fb3cb5632dee1f1c323": {
+    "string": "Date"
+  },
+  "40008709ee1df68805ae": {
+    "string": "Currency was set as default."
+  },
+  "406548eb7b3574999c30": {
+    "string": "Agent"
+  },
+  "418264feec6bf442c0f4": {
+    "string": "Two Factor Enabled!"
+  },
+  "41b1ec9a8089c70e4cfd": {
+    "string": "Banks"
+  },
+  "42228a17310436dabb4c": {
+    "string": "Change Password"
+  },
+  "425b0372ba084c7ff5a6": {
+    "string": "Action"
+  },
+  "432fd80f3a84946ce7d7": {
+    "string": "${name} must be between ${min} and ${max}"
+  },
+  "437cbca3365ceec901b1": {
+    "string": "Go to Home"
+  },
+  "43ac1c6795cce2f7441b": {
+    "string": "First Name"
+  },
+  "43c430e416755404f209": {
+    "string": "Description"
+  },
+  "44d4698c35b1d4de34f4": {
+    "string": "Crop"
+  },
+  "450f14e045f042366579": {
+    "string": "Currencies"
+  },
+  "4684b81f281270c88280": {
+    "string": "Generate New Address"
+  },
+  "484351aaeb2c2987d86d": {
+    "string": "Help"
+  },
+  "485ba4d6f448e176a1b5": {
+    "string": "Permissions"
+  },
+  "49af6ec016047cffcc2b": {
+    "string": "Add Device"
+  },
+  "49db916454c75d16acd6": {
+    "string": "Search country..."
+  },
+  "49e6a7a716aff4ae1bc1": {
+    "string": "Required"
+  },
+  "4a1497e454b083aa49d1": {
+    "string": "User Activity"
+  },
+  "4bc0e0e8f27dc469cce4": {
+    "string": "Registrations"
+  },
+  "4c1a2faf1159818244b2": {
+    "string": "Month"
+  },
+  "4c3aee9e9e5f947dbc0e": {
+    "string": "Limits"
+  },
+  "4c4e1f2127284d05f9b1": {
+    "string": "City"
+  },
+  "4c8121c1bb7adf645956": {
+    "string": "Currency was added."
+  },
+  "4d57036f6108246bbcce": {
+    "string": "Bank Account"
+  },
+  "4d5f0cc40f56a68678ce": {
+    "string": "Verification Complete."
+  },
+  "4d7a4e062bb1b9d23fed": {
+    "string": "Customize"
+  },
+  "4d854d0bb49358bde72f": {
+    "string": "Select Bank"
+  },
+  "4dc71aee62155d088c3b": {
+    "string": "Auth"
+  },
+  "4ddbbc8c2baf1b4562eb": {
+    "string": "added {date}"
+  },
+  "4efc2666ba48eae4a5b2": {
+    "string": "Hash"
+  },
+  "4f0c8c6ae34bdebfec2c": {
+    "string": "Account"
+  },
+  "4f11a250ffa2e80fe779": {
+    "string": "Two Factor Verification"
+  },
+  "4f5413f32ed6124709ec": {
+    "string": "Drop files here or click to browse."
+  },
+  "4f61fa0229c9f16ee44d": {
+    "string": "Account ({currency})"
+  },
+  "5048ea62fdcf391097a3": {
+    "string": "Crop Image"
+  },
+  "504ffe4b57535fece588": {
+    "string": "Sorry, page not found!"
+  },
+  "50b5c57cf2b016461672": {
+    "string": "Receive"
+  },
+  "5113fc3794d18fca9950": {
+    "string": "Reset Webhook"
+  },
+  "5133ae815f95aea5b812": {
+    "string": "Your Assets"
+  },
+  "529c1c15d4ee8a21b5fd": {
+    "string": "Unavailable"
+  },
+  "54fe7e091e304ef79718": {
+    "string": "Rank"
+  },
+  "55cc4cfbc80710860015": {
+    "string": "Search…"
+  },
+  "55f26c978649f0bf1140": {
+    "string": "Beneficiary"
+  },
+  "5617f578ed860c08da8e": {
+    "string": "2FA Authentication"
+  },
+  "56a08fca1eecdf0213cc": {
+    "string": "Transaction was approved."
+  },
+  "57320e29fd6e367eaf95": {
+    "string": "Reject"
+  },
+  "573cd82641e72cfc967e": {
+    "string": "Create"
+  },
+  "5789f4dd60e61b65bea3": {
+    "string": "Bank account was created."
+  },
+  "57a3640d09121165fb96": {
+    "string": "Upload photo"
+  },
+  "57f247966e4ab493235d": {
+    "string": "Forgot password?"
+  },
+  "58269fe426524edad430": {
+    "string": "Approve"
+  },
+  "583094d7ed712838a1ef": {
+    "string": "Email Verification"
+  },
+  "58ae9306ce396f9783fe": {
+    "string": "Create Role"
+  },
+  "59a0ef687b75485b83c2": {
+    "string": "until: {date}"
+  },
+  "59db1a1f8a5c301f3c80": {
+    "string": "Sorry, you are not authorized to access this page."
+  },
+  "5c71d1d3ca85c71b47ad": {
+    "string": "Data"
+  },
+  "5da96d909ea0d5cc5c58": {
+    "string": "Click {here} to review limits and requirement for each level."
+  },
+  "5dffc0eef83d8424e31b": {
+    "string": "Complete with token."
+  },
+  "5f94bd1c251e44495e1c": {
+    "string": "Wallet transaction was relayed."
+  },
+  "60332b28a69d4f74176a": {
+    "string": "Users"
+  },
+  "61c8d7ed885a4a8bbef8": {
+    "string": "Logout Successful!"
+  },
+  "63b618baaca58538685e": {
+    "string": "Localization"
+  },
+  "643e3c4d6c3430dc761f": {
+    "string": "Resend code"
+  },
+  "66451c643404464d5de5": {
+    "string": "User Setup"
+  },
+  "66b958de10e4b38c703c": {
+    "string": "${name} is not a valid ${type}"
+  },
+  "66c81b5c28af8cf9446e": {
+    "string": "Search currency..."
+  },
+  "6751099f60b073101e10": {
+    "string": "${name} cannot be longer than ${max} characters"
+  },
+  "67589fe411852a933e01": {
+    "string": "Forgot Password"
+  },
+  "679c0a1a8ee7783f5434": {
+    "string": "Your Portfolio"
+  },
+  "687729bc08f1b9a72fcd": {
+    "string": "Search name..."
+  },
+  "687e037b6636d24752b3": {
+    "string": "Source"
+  },
+  "68cc3161b27db37f2c28": {
+    "string": "Countries"
+  },
+  "69063be3397c7e89b26d": {
+    "string": "Verify your identity."
+  },
+  "69cacea339b4f3110b4b": {
+    "string": "Continue"
+  },
+  "6a17907674748238dc77": {
+    "string": "Last Name"
+  },
+  "6b99acba1e4e469610f9": {
+    "string": "Yes"
+  },
+  "6be188e043b82427d55c": {
+    "string": "password does not match."
+  },
+  "6d6ec1f3bc0516934e6a": {
+    "string": "New"
+  },
+  "6f25d7c957e3bb6b2944": {
+    "string": "Enter Amount"
+  },
+  "6f77b5df45b48e244899": {
+    "string": "Role was updated."
+  },
+  "6ff3e5a231de76449f1d": {
+    "string": "Deposit Method"
+  },
+  "70f8194bb87812258ad0": {
+    "string": "{field} is an invalid phone number"
+  },
+  "7214e29aa1e0378452f9": {
+    "string": "We are currently not available in your country."
+  },
+  "72d63c0ea6f3479683d7": {
+    "string": "${name} must be one of [${enum}]"
+  },
+  "731b64e95647460cd98c": {
+    "string": "User was deactivated."
+  },
+  "7346f95d54a159ac9763": {
+    "string": "Rate"
+  },
+  "737e603394fb72e95d33": {
+    "string": "Roles"
+  },
+  "73a675a93c13477b0dcd": {
+    "string": "User was activated."
+  },
+  "73e47e1211fb573b57a8": {
+    "string": "Don’t have an account?"
+  },
+  "7476952529d28f6819b1": {
+    "string": "There are no further requirements for now."
+  },
+  "7488013b3744659a5f15": {
+    "string": "Deposit"
+  },
+  "7511de60bdaa36884efa": {
+    "string": "Your profile was updated."
+  },
+  "75e11e1087ba6e396e2e": {
+    "string": "Register"
+  },
+  "76195bb621ded3d61755": {
+    "string": "Bank account was added."
+  },
+  "775aaf64d7caaefdc046": {
+    "string": "Search coin..."
+  },
+  "78a10bfe052a89930b96": {
+    "string": "Pending"
+  },
+  "79041c37d0144d74e080": {
+    "string": "You have enabled two factor."
+  },
+  "7a31067714941ac39fd7": {
+    "string": "Home"
+  },
+  "7b4904b5215747753738": {
+    "string": "Deactivate"
+  },
+  "7b9e7bb59d22da7e5f95": {
+    "string": "Seen: {date}"
+  },
+  "7ba3e1e7e136d43989fa": {
+    "string": "Address"
+  },
+  "7bd67eb60815d1e3b608": {
+    "string": "Date of Birth"
+  },
+  "7cd08263b6e1ec6ee26a": {
+    "string": "Basic"
+  },
+  "7d3c925025b843e16509": {
+    "string": "Please select an account to get your deposit address."
+  },
+  "7e6f7d5727f093d1309d": {
+    "string": "Basic Information"
+  },
+  "7eb378bf23cb9d787f07": {
+    "string": "Last Seen"
+  },
+  "81ac33a25025d71550e7": {
+    "string": "Country was removed."
+  },
+  "8205f557ca8d8ac4b227": {
+    "string": "We have sent a 6-digit confirmation code to {email}, please enter the code in below."
+  },
+  "829caf56b5cea489760d": {
+    "string": "Click the button below to generate a deposit address."
+  },
+  "854412c0c1adca7a7b86": {
+    "string": "Bank Name"
+  },
+  "85b4aa240647fd10699b": {
+    "string": "Bank"
+  },
+  "87348d8f8fac82ca04b3": {
+    "string": "Dashboard"
+  },
+  "874003de23bf40ff4bde": {
+    "string": "Bank was updated."
+  },
+  "876be2a6e9d555d31023": {
+    "string": "Code"
+  },
+  "87dc78ef7f71b8b965e6": {
+    "string": "Update Rate"
+  },
+  "887375daec62a9f02d32": {
+    "string": "Admin"
+  },
+  "8987372dde37952a6d47": {
+    "string": "Payments"
+  },
+  "899a5cb4dde2e9adf6c6": {
+    "string": "Scan QR Code."
+  },
+  "89e4c8c35259e06f893b": {
+    "string": "Create a new account, fast and easy."
+  },
+  "8abfcbed5f840c6840ef": {
+    "string": "Email was resent."
+  },
+  "8ad3e0c5d6c1cc2d85d5": {
+    "string": "Profile"
+  },
+  "8b03a570b01a7cfbf6d3": {
+    "string": "Deactivate Users"
+  },
+  "8b26b5a8c4a76089b67e": {
+    "string": "Profile Updated!"
+  },
+  "8de27faf64a605dff670": {
+    "string": "User Account"
+  },
+  "8ea3788e93463c583cc8": {
+    "string": "Invalid token or password."
+  },
+  "8efa34becde717452fae": {
+    "string": "Save"
+  },
+  "8f37123d620446878180": {
+    "string": "Fixed"
+  },
+  "8f74f6dc88d1d440e9ae": {
+    "string": "Confirmations"
+  },
+  "8fd29f47cf5f43b40560": {
+    "string": "${name} must be between ${min} and ${max} characters"
+  },
+  "90590f5819de0b323fcf": {
+    "string": "Number"
+  },
+  "92efa60d4e8c796d0cc7": {
+    "string": "State"
+  },
+  "93cd52d72e923ae2cff4": {
+    "string": "Logo"
+  },
+  "9528a6924ebe27a8e8f4": {
+    "string": "Scan this code with your preferred, authenticator app."
+  },
+  "95a3965dd7ed9c84da43": {
+    "string": "Don't have a code?"
+  },
+  "964d8ba9d15df8c3d86f": {
+    "string": "Document was rejected."
+  },
+  "96dc4ed4872b1d2f1065": {
+    "string": "Current Price"
+  },
+  "9700a075fc0db7dc01f4": {
+    "string": "Update Fees"
+  },
+  "970436c5b1bd71f89f17": {
+    "string": "Edit Role"
+  },
+  "97cc1a9d46eff278f835": {
+    "string": "Joined"
+  },
+  "98b67e705bd2c3683267": {
+    "string": "Your email has been verified."
+  },
+  "98e146dcacbb34043257": {
+    "string": "Start"
+  },
+  "990cc7e5d4776df1f2a1": {
+    "string": "Assign Role"
+  },
+  "997883e6e1bde8bbbc1a": {
+    "string": "Phone Number"
+  },
+  "998c7cb2f779905c84b7": {
+    "string": "Account Details"
+  },
+  "99c52185f6e33ae4f7e9": {
+    "string": "Reference"
+  },
+  "9c3c0f614c30e9eea452": {
+    "string": "Transfer Beneficiary"
+  },
+  "9ce93d9a1c46a54ca2f1": {
+    "string": "List"
+  },
+  "9d92ec2cc748e9ea5af5": {
+    "string": "Attention is needed!"
+  },
+  "9dcf10a49f1f376015e1": {
+    "string": "Recent Activity"
+  },
+  "9dd26a1bd347dcc2dd75": {
+    "string": "Check your email."
+  },
+  "9dd54fb50f471c39986e": {
+    "string": "Role was deleted."
+  },
+  "9f6044f3e4b0ef53bc22": {
+    "string": "File size must be between {min} and {max}."
+  },
+  "9fd7dd6899d4dc71a2eb": {
+    "string": "Unverified"
+  },
+  "a0b4dd728596b2a44185": {
+    "string": "Address was approved."
+  },
+  "a0db85c14073e76d823a": {
+    "string": "You have updated your profile."
+  },
+  "a145800e53a326d880f4": {
+    "string": "No"
+  },
+  "a1c1d192617a32f7a0f9": {
+    "string": "Token was resent."
+  },
+  "a22322fb3c7a40cacbc5": {
+    "string": "Wallets"
+  },
+  "a340fc2daa5b977a343f": {
+    "string": "Two Factor"
+  },
+  "a4e5bd90756b2b59c633": {
+    "string": "There was an unexpected error, please try again later."
+  },
+  "a645b04888bc3d402809": {
+    "string": "Get started in few steps."
+  },
+  "a6532c10094c40791f08": {
+    "string": "Deactivated"
+  },
+  "a6f5dec044a44dda9792": {
+    "string": "Scan the barcode on the left hand side, or manually enter your secret token."
+  },
+  "a6fb27dd9e13b5863e19": {
+    "string": "Get Support"
+  },
+  "a753fe850abab582657f": {
+    "string": "Request"
+  },
+  "a8c78f3c68841b88a3b9": {
+    "string": "Note"
+  },
+  "a9f57da8f639025f8e07": {
+    "string": "Deactivate User"
+  },
+  "aa1ecadb44f0b41effa3": {
+    "string": "Latest Users"
+  },
+  "ab56f28d66205c64680e": {
+    "string": "Confirm Deposit"
+  },
+  "ab95e5d0c21d52314836": {
+    "string": "Verify"
+  },
+  "ac7aa6687fe3929c9510": {
+    "string": "Deposit request was created."
+  },
+  "ad72d2a615dea3435445": {
+    "string": "Confirm Transfer"
+  },
+  "ada7b1c4c8a869cc723f": {
+    "string": "Submitted"
+  },
+  "adaa8ac24d5cb57c93c8": {
+    "string": "${name} cannot be greater than ${max} in length"
+  },
+  "adbada84e18c0b7437c2": {
+    "string": "Close"
+  },
+  "ae34f8bb125165d3eff6": {
+    "string": "Quota"
+  },
+  "ae653bcb7590ba7ea653": {
+    "string": "Giftcard"
+  },
+  "aec7abfa24382e8daaa8": {
+    "string": "${name} could not be parsed as date"
+  },
+  "aef8ab336dfc644ac7a1": {
+    "string": "Location"
+  },
+  "af4d9ff0659dd399bc56": {
+    "string": "${name} is invalid for format date"
+  },
+  "b0cd3826934748c8cdc0": {
+    "string": "Internal Error"
+  },
+  "b11a78504f34aa4dcfa5": {
+    "string": "Landing"
+  },
+  "b32fa9bf953d96c166f3": {
+    "string": "Email"
+  },
+  "b3aa4bc60ea554204dd8": {
+    "string": "Document was approved."
+  },
+  "b6320e619e78f14ba0b0": {
+    "string": "You are sending"
+  },
+  "b6490a921c31a86ef3db": {
+    "string": "Exchange"
+  },
+  "b6aa17f537ef131b7cfe": {
+    "string": "Login Successful!"
+  },
+  "b6d853a122c5e5933628": {
+    "string": "Disabled"
+  },
+  "b7330d1778d6a14c69f2": {
+    "string": "Status"
+  },
+  "b7af30abb95e0196ac3b": {
+    "string": "Wallet webhook was reset."
+  },
+  "b7b726322ce65db9d891": {
+    "string": "Grid data was saved."
+  },
+  "b811dddcf436a9559b4c": {
+    "string": "Transaction was rejected."
+  },
+  "b8293cafe9dd6eb2c39f": {
+    "string": "Already have an account?"
+  },
+  "b93e0e94f956c347783a": {
+    "string": "Fee"
+  },
+  "ba683af46ddae6c7a375": {
+    "string": "Add Wallet"
+  },
+  "bb34c91af17625f4cb8d": {
+    "string": "Sent {value} {symbol}!"
+  },
+  "bb9728b28f6378a564f3": {
+    "string": "Add Currency"
+  },
+  "bc69437ccc4f1d3cbf3e": {
+    "string": "Picture was uploaded."
+  },
+  "bce362f8e320867ba02e": {
+    "string": "Country"
+  },
+  "bdf1be9e10a67576e85f": {
+    "string": "Confirm Password"
+  },
+  "be4f4586d010c6f14cd5": {
+    "string": "Sorry, we could not find the page you’re looking for."
+  },
+  "bf1d27919f31a72d42f1": {
+    "string": "Privacy Policy"
+  },
+  "bf53eacaaa46ea28058d": {
+    "string": "${name} must be exactly ${len} characters"
+  },
+  "bf75ac31d0ef86a8dd69": {
+    "string": "No deposit address."
+  },
+  "c044030ba5afdffea22c": {
+    "string": "Edit"
+  },
+  "c07dd7fa79274e707172": {
+    "string": "Bank Accounts"
+  },
+  "c0d32aecbce8f8ff3a82": {
+    "string": "Search user..."
+  },
+  "c0df273c1dba522d205d": {
+    "string": "User was updated."
+  },
+  "c12651e3b63992312515": {
+    "string": "Submit"
+  },
+  "c1621611fe3568b74c40": {
+    "string": "${name} is invalid date"
+  },
+  "c4bb3b25b26921a9e780": {
+    "string": "Change photo"
+  },
+  "c518d752bc34a9a38418": {
+    "string": "Monthly Statistics"
+  },
+  "c59a2a119aa3e7433ee3": {
+    "string": "Country Unsupported"
+  },
+  "c6407ef195fd9a73ed74": {
+    "string": "Unit"
+  },
+  "c66715674054eb772c3a": {
+    "string": "Search"
+  },
+  "c681590db0353c15a9c2": {
+    "string": "Enter two factor code."
+  },
+  "c698123782e907678b1d": {
+    "string": "This stage requires some of your account information to be completed, the validity will be checked during advanced verification."
+  },
+  "c6d3eb2544719ec285e2": {
+    "string": "Allowed *.jpeg, *.jpg, *.png"
+  },
+  "c714312c4fb19d111bea": {
+    "string": "Email Address"
+  },
+  "c74f11ae60cd934487b5": {
+    "string": "Add Country"
+  },
+  "c819ed4cca6a29199871": {
+    "string": "To enable multi-factor authentication with time-based one time password (TOTP) generation, register your mobile device:"
+  },
+  "c8f83cb3a01e536728dd": {
+    "string": "Until"
+  },
+  "c99271552268b145f86f": {
+    "string": "Developer"
+  },
+  "cc57a00c3c088496aedd": {
+    "string": "Contact"
+  },
+  "cc7a6fcc5b5416240765": {
+    "string": "Total Balance"
+  },
+  "cca40bebe97e66e680b5": {
+    "string": "You don't have enough {coin} to send."
+  },
+  "ce12e448afa6d7169633": {
+    "string": "Your address was updated."
+  },
+  "cebba1c42d15fced6457": {
+    "string": "{selection} selected"
+  },
+  "cf5bb645fa3e4a7e8c51": {
+    "string": "Search bank..."
+  },
+  "cfb168cc776bf4ac7f9e": {
+    "string": "${name} cannot be less than ${min} in length"
+  },
+  "d03f02b189f3f28f4847": {
+    "string": "Validation error on field ${name}"
+  },
+  "d13799030243fa6d453b": {
+    "string": "Edit Bank"
+  },
+  "d24c6b3212fcc05b874a": {
+    "string": "Control Panel"
+  },
+  "d2c1c932a02083078f59": {
+    "string": "${name} must be at least ${min} characters"
+  },
+  "d3dfe817e0feb6e20b31": {
+    "string": "Install an authenticator app such as {authy} or {google}"
+  },
+  "d3e0d3124200342d87d4": {
+    "string": "Resend Email"
+  },
+  "d3eebe8cf98a8a67e227": {
+    "string": "Select account"
+  },
+  "d6210f4cc0ea9a2fce7c": {
+    "string": "General"
+  },
+  "d78b0456eabe29be3789": {
+    "string": "Earnings"
+  },
+  "d78e847e45b3de4b8e0b": {
+    "string": "Wallet was added."
+  },
+  "d7d02c453846c989e87e": {
+    "string": "${name} must equal ${len}"
+  },
+  "d917a715528c4604cf04": {
+    "string": "Add Bank"
+  },
+  "d96d1ff61ca6322554ac": {
+    "string": "Bio"
+  },
+  "d9725233e1cd955ae1d5": {
+    "string": "Submit Address"
+  },
+  "da648e97bb639cccec77": {
+    "string": "The withdrawal fees are sent to the most recent {operator} user. You should make sure that the {operator} role is only assigned to the account you have access to."
+  },
+  "da809aca6c6fc99cf343": {
+    "string": "Are you sure?"
+  },
+  "db1b67ea4acfa2d6bc79": {
+    "string": "Withdrawal request was created."
+  },
+  "db8e32a6230d0cf3713a": {
+    "string": "Update Profile"
+  },
+  "dbfdb283ea80c29851c3": {
+    "string": "Add"
+  },
+  "dc62d07827034386de7a": {
+    "string": "Access Forbidden!"
+  },
+  "dd1c7a428d71fb57f9b0": {
+    "string": "Advanced"
+  },
+  "dd45671a5f34d31c38d2": {
+    "string": "Hi, Welcome Back"
+  },
+  "dd6c7d44c5c2cde56f95": {
+    "string": "No wallets!"
+  },
+  "ddae702fcc28e34cccf9": {
+    "string": "Active"
+  },
+  "de6bcbd90ff00c604a83": {
+    "string": "and"
+  },
+  "de8e0b32f34339495c5f": {
+    "string": "Hi, {name}"
+  },
+  "df6ac134a3f4cf5b89dd": {
+    "string": "Terms of Service"
+  },
+  "dfd64a8391fc0993ca52": {
+    "string": "Withdrawals"
+  },
+  "e0ad4835e43ff9d38078": {
+    "string": "Your Balance"
+  },
+  "e39b22ae8ff9d4536abe": {
+    "string": "What's this transaction for? (optional)"
+  },
+  "e3b158c1b6be6c8bd456": {
+    "string": "Cancel"
+  },
+  "e42c00d473419d2354eb": {
+    "string": "On Trade"
+  },
+  "e4cd7785689a9ffe7335": {
+    "string": "Deposits"
+  },
+  "e59c408983a2e690abcf": {
+    "string": "Token"
+  },
+  "e637aaf0f25983b53aff": {
+    "string": "Unknown"
+  },
+  "e63ea9db983bc5d7bb0d": {
+    "string": "Rank is used to set the priority of roles, with the lesser value having greater priority."
+  },
+  "e6a683eec0d5c6e88657": {
+    "string": "Rejected"
+  },
+  "e6c83b282aeb2e022844": {
+    "string": "Password"
+  },
+  "e6edbb0b7f75ed926370": {
+    "string": "We are not available in your country."
+  },
+  "e7985d432e2e1ce8892e": {
+    "string": "Currency"
+  },
+  "e8a9854667611a2c1fbf": {
+    "string": "Confirm Withdrawal"
+  },
+  "e9714efc2c3b2ddc4ced": {
+    "string": "Approved"
+  },
+  "ea34fedba6f68a5c4e33": {
+    "string": "Verify Address"
+  },
+  "eaccc340f2789bcc4300": {
+    "string": "Bank was removed."
+  },
+  "eb6a26daab77a76eeffe": {
+    "string": "Withdrawal Fees were updated."
+  },
+  "ece5bc0530f38b2edb31": {
+    "string": "Configuration"
+  },
+  "ed1e42e0d64a34877ede": {
+    "string": "Email Verified!"
+  },
+  "ed35935277feb3ced446": {
+    "string": "Reset Token"
+  },
+  "ee761f53100747f962a4": {
+    "string": "There are no new wallets available."
+  },
+  "ef5d4f04b05050271f6f": {
+    "string": "Bank was created."
+  },
+  "efb5b15a8736dc811014": {
+    "string": "Withdrawal Fee"
+  },
+  "f046c8c4c2f28867aad4": {
+    "string": "This stage requires a manual verification by our support agents. Your data is kept private and encrypted within the system."
+  },
+  "f093d4ce3e9a97fe5c56": {
+    "string": "We highly recommend securing your account with 2FA."
+  },
+  "f0b6c37987c273efd068": {
+    "string": "Password was reset."
+  },
+  "f1fb161c84d872c4c9dc": {
+    "string": "We have sent a 6-digit confirmation code to {phone}, please enter the code in below."
+  },
+  "f2655cb348ec707d8d1b": {
+    "string": "Verify Email"
+  },
+  "f2a6781c4fdbbccb4910": {
+    "string": "Copied to clipboard."
+  },
+  "f3b931fa67ef1647e278": {
+    "string": "Bank account was removed."
+  },
+  "f512c45ec8aa046f42a7": {
+    "string": "Pay with Bank Transfer"
+  },
+  "f564651784768260f38d": {
+    "string": "Send"
+  },
+  "f5af7ec305b2e2e508d7": {
+    "string": "Title"
+  },
+  "f62bce9b7b2141c26237": {
+    "string": "Unexpected Error"
+  },
+  "f63de15cee0e8db572c7": {
+    "string": "To"
+  },
+  "f68d9113a5c847feced0": {
+    "string": "Nothing here!"
+  },
+  "f6a1d7b03ea769d74949": {
+    "string": "Currency was removed."
+  },
+  "f79b2d3ea0a77eecfb89": {
+    "string": "Completed"
+  },
+  "f7db63c86b4c0f51c0df": {
+    "string": "IP"
+  },
+  "f7e0ddb6e0aa2f082547": {
+    "string": "Next"
+  },
+  "f9385973377f122260aa": {
+    "string": "Verify with token."
+  },
+  "f94ea8cdc9efe2b9caff": {
+    "string": "Type"
+  },
+  "f9867519646006bdbd43": {
+    "string": "Transaction Limits"
+  },
+  "fa559020947996207b69": {
+    "string": "Marketplace"
+  },
+  "fa562433f1be16a3ccd9": {
+    "string": "Adapter"
+  },
+  "fba3b0d32a4ed14d3510": {
+    "string": "Enable Two Factor"
+  },
+  "fd36f2be6911d89d7cde": {
+    "string": "Role was created"
+  },
+  "fd509be4bacf0010bde9": {
+    "string": "Email or coin address"
+  },
+  "fd59c3325f35ae103576": {
+    "string": "Other"
+  },
+  "fd5c222d3326cf2a0092": {
+    "string": "Total Users"
+  },
+  "fda04b1f62b2b6e74be1": {
+    "string": "Get started"
+  },
+  "fdfb28a1e526d30aa083": {
+    "string": "${name} cannot be less than ${min}"
+  },
+  "fe324b6329a769ee5a86": {
+    "string": "Transactions"
+  },
+  "fe8f22b83f508814751b": {
+    "string": "No Record!"
+  },
+  "ff037a3e24e5919f07ff": {
+    "string": "Enter your details below."
+  },
+  "ff44ce2f98a77dd22a67": {
+    "string": "Amount"
+  }
+}
